@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+body.body_background{
+    background-color: black;
+    color: white;
+
+}
+.dark_mode{
+    
+}
+#light_mode{
+    color: yellow;
+    background: none;
+    border: none;
+    font-size: 30px;
+    margin: 20px 10px 20px 20px;
+}
+#dark_mode{
+    color: black;
+    background: none;
+    border: none;
+    font-size: 30px;
+    margin: 20px 10px 20px 20px;
+
+}
+#light_mode.remove{
+    display: none;
+    
+
+}
+.btn{
+    background-color: royalblue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+#username.remove{
+    display: none;
+    
+
+}
+#password.remove{
+    display: none;
+    
+
+}
+#label_1.remove{
+    display: none;
+    
+
+}
+#label_2.remove{
+    display: none;
+    
+
+}
+
